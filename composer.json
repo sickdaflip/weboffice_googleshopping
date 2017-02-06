@@ -1,0 +1,52 @@
+{
+  "name": "sickdaflip/weboffice_googleshopping",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento 1.9.3. Module",
+  "authors": [
+    {
+      "name": "SickDaFlip",
+      "email": "philippbreitsprecher@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "app/code/community/Weboffice/*",
+        "app/code/community/Weboffice/"
+      ],
+      [
+        "app/design/adminhtml/base/default/template/*",
+        "app/design/adminhtml/base/default/template/"
+      ],
+      [
+        "app/design/adminhtml/default/default/layout/*",
+        "app/design/adminhtml/default/default/layout/"
+      ],
+      [
+        "app/design/adminhtml/default/default/template/*",
+        "app/design/adminhtml/default/default/template/"
+      ],
+      [
+        "app/etc/modules/*.xml",
+        "app/etc/modules/"
+      ],
+      [
+        "js/weboffice/*",
+        "js/weboffice/"
+      ],
+      [
+        "lib/Google/*",
+        "lib/Google/"
+      ],
+      [
+        "lib/MaxMind/*",
+        "lib/MaxMind/"
+      ],
+      [
+        "var/weboffice/*",
+        "var/weboffice/"
+      ]
+    ]
+  }
+}

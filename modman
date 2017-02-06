@@ -1,0 +1,10 @@
+app/code/community/*                                        app/code/community/
+app/design/adminhtml/base/default/template/*                app/design/adminhtml/base/default/template/
+app/design/adminhtml/default/default/layout/*               app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/*             app/design/adminhtml/default/default/template/
+app/etc/modules/*.xml                                       app/etc/modules/
+js/*                                                        js/
+lib/Google/*                                                lib/Google/
+lib/MaxMind/*                                               lib/MaxMind/
+lib/Varien/Data/Form/Element/Googleshoppingautocomplete.php lib/Varien/Data/Form/Element/Googleshoppingautocomplete.php
+var/*                                                       var/
