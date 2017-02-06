@@ -12,8 +12,8 @@
   "extra": {
     "map": [
       [
-        "app/code/community/Weboffice/*",
-        "app/code/community/Weboffice/"
+        "app/code/community/*",
+        "app/code/community/"
       ],
       [
         "app/design/adminhtml/base/default/template/*",
@@ -32,8 +32,8 @@
         "app/etc/modules/"
       ],
       [
-        "js/weboffice/*",
-        "js/weboffice/"
+        "js/*",
+        "js/"
       ],
       [
         "lib/Google/*",
@@ -44,8 +44,12 @@
         "lib/MaxMind/"
       ],
       [
-        "var/weboffice/*",
-        "var/weboffice/"
+        "lib/Varien/Data/Form/Element/Googleshoppingautocomplete.php",
+        "lib/Varien/Data/Form/Element/Googleshoppingautocomplete.php"
+      ],
+      [
+        "var/*",
+        "var/]"
       ]
     ]
   }
